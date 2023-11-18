@@ -1,4 +1,5 @@
 # Data Analyst
+-------
 Hello! I'm Deachul (David), a data analyst who takes pride in exploring data to uncover meaningful insights about the world. 
 During my master's program, I had the opportunity to research the impact of biocognitive mechanisms on human psychology. 
 This involved collecting, integrating, and analyzing a variety of data types including psychological, behavioral, and physiological data. 
@@ -11,8 +12,8 @@ Skilled in various technologies required for data collection, processing, analys
   - BI: Tableau
     
 ## Education
-- M.A., Psychology | Yonsei University at Seoul, South Korea (Feb, 2023)
-- B.A., English Language (Linguistics) and Literature | Hanyang University at Seoul, South Korea (Feb, 2021)
+- M.A., Psychology | Yonsei University (Feb, 2023)
+- B.A., English Language and Literature | Hanyang University (Feb, 2021)
 
 ## Experience
 **Graduate Researcher @ Clinical Neuroscience of Anxiety and Depression Lab | Yonsei University (_Jan 2021 - Feb 2023_)**
