@@ -1,6 +1,6 @@
 # Data Analyst
 -------
-Hello! I'm Deachul (David), a data analyst who takes pride in exploring data to uncover meaningful insights about the world. 
+Hello! I'm DC (David), a data analyst who takes pride in exploring data to uncover meaningful insights about the world. 
 During my master's program, I had the opportunity to research the impact of biocognitive mechanisms on human psychology. 
 This involved collecting, integrating, and analyzing a variety of data types including psychological, behavioral, and physiological data. 
 I have published research papers in international journals based on these studies. 
