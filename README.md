@@ -12,8 +12,8 @@ Skilled in various technologies required for data collection, processing, analys
   - BI: Tableau
     
 ## Education
-- M.A., Psychology at Yonsei University (Feb, 2023)
-- B.A., English Language and Literature at Hanyang University (Feb, 2021)
+- **M.A., Clinical Psychology**, Yonsei University (Feb, 2023)
+- **B.A., English Language and Literature**, Hanyang University (Feb, 2021)
 
 ## Experience
 **Lead graduate researcher @ Clinical Neuroscience of Anxiety and Depression Lab | Yonsei University (_Jan 2021 - Feb 2023_)**
