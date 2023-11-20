@@ -16,6 +16,7 @@ Skilled in various technologies required for data collection, processing, analys
 - **B.A., English Language and Literature**, Hanyang University (Feb, 2021)
 
 ## Experience
+
 **Lead graduate researcher** @ Clinical Neuroscience of Anxiety and Depression Lab | Yonsei University (_Jan 2021 - Feb 2023_)
 
 **Clinical evaluation trainee** @ Yonsei Psychological Health Center | Yonsei University (_Feb 2022 - June 2022_)
