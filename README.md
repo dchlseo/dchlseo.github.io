@@ -20,13 +20,11 @@ Skilled in various technologies required for data collection, processing, analys
 - Lead researcher (full-time), lab manager
 - (what I did)
 
-**Graduate Researcher @ Clinical Neuroscience of Anxiety and Depression Lab | Yonsei University (_Jan 2021 - Feb 2023_)**
-- Lead researcher (full-time), lab manager
-- (what I did)
+**Clinical evaluation trainee @ Yonsei Psychological Health Center | Yonsei University (_Feb 2022 - June 2022_)**
+- Apprenticeship
 
-**Graduate Researcher @ Clinical Neuroscience of Anxiety and Depression Lab | Yonsei University (_Jan 2021 - Feb 2023_)**
-- Lead researcher (full-time), lab manager
-- (what I did)
+**Winter break trainee @ Pediatric Psychiatric Hospital | Yonsei Severance Hospital (_Jan 2022 - Feb 2022_)**
+- Apprenticeship
 
 ## Projects
 ### Investigation of psychophysiological (EMG, ECG, HRV) responses to threat uncertainty under cognitive load
