@@ -29,16 +29,17 @@ Skilled in various technologies required for data collection, processing, analys
 
 ### Psychology
 - ([Thesis](https://dcollection.yonsei.ac.kr/srch/srchDetail/000000545187?navigationSize=10&query=%2B%28%28creator_all%3A%EC%84%9C%EB%8C%80%EC%B2%A0%29%29&pageSize=10&insCode=211046&searchWhere1=creator_all&searchTotalCount=0&sortDir=desc&pageNum=1&rows=10&searthTotalPage=0&treePageNum=1&sortField=score&start=0&ajax=false&searchText=%5B%EC%A0%80%EC%9E%90%3A%EC%84%9C%EB%8C%80%EC%B2%A0%5D&searchKeyWord1=%EC%84%9C%EB%8C%80%EC%B2%A0)) Investigation of psychophysiological (EMG, ECG, HRV) responses to threat uncertainty under cognitive load
-- 
+- Development of the Korean etiological model of anxiety-depression
+- Columbia University x Yonsei University cluster research program: predictive modeling of psychological health of post-pandemic generation university students
+- Seoul Campus Town: preventing illegal parking of personal mobilities (PM)
 
 ### Neurolinguistics
-
-
-
+- Semantic similarity of Korean compound words
+- EEG investigation of Korean sentences
 
 ### Publications
-[Publication](https://onlinelibrary.wiley.com/doi/10.1111/psyp.14404)
-
+- Seo, D., Balderston, N. L., Berenbaum, H., & Hur, J. (2023). The interactive effects of different facets of threat uncertainty and cognitive load in shaping fear and anxiety responses. Psychophysiology, e14404. [https://doi.org/10.1111/psyp.14404](https://onlinelibrary.wiley.com/doi/10.1111/psyp.14404)
+- Park, M., Seo, D., Kim, J. G., Lee, G., McReynolds, L. S., Amsel, L., Yang, H., Kim, Y. H., Han, S., Park, S. H., & Hur, J. (2023). Identification and comparison of pandemic-to-symptom networks of South Korea and the United States. Frontiers in psychiatry, 14, 1161200. [https://doi.org/10.3389/fpsyt.2023.1161200](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10328092/)
 
 
 
