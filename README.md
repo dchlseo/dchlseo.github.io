@@ -26,6 +26,7 @@ Skilled in various technologies required for data collection, processing, analys
 
 ## Projects
 ### Data Science
+- Predicting flight delays with machine learning (LightGBM, XGBoost)
 
 ### Psychology
 - Investigation of psychophysiological (EMG, ECG, HRV) responses to threat uncertainty under cognitive load ([Thesis](https://dcollection.yonsei.ac.kr/srch/srchDetail/000000545187?navigationSize=10&query=%2B%28%28creator_all%3A%EC%84%9C%EB%8C%80%EC%B2%A0%29%29&pageSize=10&insCode=211046&searchWhere1=creator_all&searchTotalCount=0&sortDir=desc&pageNum=1&rows=10&searthTotalPage=0&treePageNum=1&sortField=score&start=0&ajax=false&searchText=%5B%EC%A0%80%EC%9E%90%3A%EC%84%9C%EB%8C%80%EC%B2%A0%5D&searchKeyWord1=%EC%84%9C%EB%8C%80%EC%B2%A0))
