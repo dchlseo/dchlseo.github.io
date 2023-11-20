@@ -16,19 +16,19 @@ Skilled in various technologies required for data collection, processing, analys
 - **B.A., English Language and Literature**, Hanyang University (Feb, 2021)
 
 ## Experience
-**Lead graduate researcher @ Clinical Neuroscience of Anxiety and Depression Lab** | Yonsei University (_Jan 2021 - Feb 2023_)
+**Lead graduate researcher** @ Clinical Neuroscience of Anxiety and Depression Lab | Yonsei University (_Jan 2021 - Feb 2023_)
 
-**Clinical evaluation trainee @ Yonsei Psychological Health Center** | Yonsei University (_Feb 2022 - June 2022_)
+**Clinical evaluation trainee** @ Yonsei Psychological Health Center | Yonsei University (_Feb 2022 - June 2022_)
 
-**Winter break trainee @ Pediatric Psychiatric Hospital | Yonsei Severance Hospital** (_Jan 2022 - Feb 2022_)**
+**Winter break trainee** @ Pediatric Psychiatric Hospital | Yonsei Severance Hospital (_Jan 2022 - Feb 2022_)
 
-**Undergraduate research assistant @ NeuroCognition of Language Lab** | Hanyang University (_Sept 2019 - Fet 2020_)
+**Undergraduate research assistant** @ NeuroCognition of Language Lab | Hanyang University (_Sept 2019 - Fet 2020_)
 
 ## Projects
 ### Data Science
 
 ### Psychology
-- ([Thesis](https://dcollection.yonsei.ac.kr/srch/srchDetail/000000545187?navigationSize=10&query=%2B%28%28creator_all%3A%EC%84%9C%EB%8C%80%EC%B2%A0%29%29&pageSize=10&insCode=211046&searchWhere1=creator_all&searchTotalCount=0&sortDir=desc&pageNum=1&rows=10&searthTotalPage=0&treePageNum=1&sortField=score&start=0&ajax=false&searchText=%5B%EC%A0%80%EC%9E%90%3A%EC%84%9C%EB%8C%80%EC%B2%A0%5D&searchKeyWord1=%EC%84%9C%EB%8C%80%EC%B2%A0)) Investigation of psychophysiological (EMG, ECG, HRV) responses to threat uncertainty under cognitive load
+- Investigation of psychophysiological (EMG, ECG, HRV) responses to threat uncertainty under cognitive load ([Thesis](https://dcollection.yonsei.ac.kr/srch/srchDetail/000000545187?navigationSize=10&query=%2B%28%28creator_all%3A%EC%84%9C%EB%8C%80%EC%B2%A0%29%29&pageSize=10&insCode=211046&searchWhere1=creator_all&searchTotalCount=0&sortDir=desc&pageNum=1&rows=10&searthTotalPage=0&treePageNum=1&sortField=score&start=0&ajax=false&searchText=%5B%EC%A0%80%EC%9E%90%3A%EC%84%9C%EB%8C%80%EC%B2%A0%5D&searchKeyWord1=%EC%84%9C%EB%8C%80%EC%B2%A0))
 - Development of the Korean etiological model of anxiety-depression
 - Columbia University x Yonsei University cluster research program: predictive modeling of psychological health of post-pandemic generation university students
 - Seoul Campus Town: preventing illegal parking of personal mobilities (PM)
