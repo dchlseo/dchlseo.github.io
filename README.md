@@ -16,17 +16,18 @@ Skilled in various technologies required for data collection, processing, analys
 - B.A., English Language and Literature at Hanyang University (Feb, 2021)
 
 ## Experience
-**Graduate Researcher @ Clinical Neuroscience of Anxiety and Depression Lab | Yonsei University (_Jan 2021 - Feb 2023_)**
+**Graduate Researcher at Clinical Neuroscience of Anxiety and Depression Lab | Yonsei University (_Jan 2021 - Feb 2023_)**
 - Lead researcher (full-time), lab manager
 - (what I did)
 
-**Clinical evaluation trainee @ Yonsei Psychological Health Center | Yonsei University (_Feb 2022 - June 2022_)**
+**Clinical evaluation trainee at Yonsei Psychological Health Center | Yonsei University (_Feb 2022 - June 2022_)**
 - Apprenticeship
 
-**Winter break trainee @ Pediatric Psychiatric Hospital | Yonsei Severance Hospital (_Jan 2022 - Feb 2022_)**
+**Winter break trainee at Pediatric Psychiatric Hospital | Yonsei Severance Hospital (_Jan 2022 - Feb 2022_)**
 - Apprenticeship
 
-
+**Undergraduate research assistant at NeuroCognition of Language Lab | Hanyang University (_Sept 2019 - Fet 2020_)**
+- Internship
 
 ## Projects
 ### Investigation of psychophysiological (EMG, ECG, HRV) responses to threat uncertainty under cognitive load
