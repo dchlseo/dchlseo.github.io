@@ -12,8 +12,8 @@ Skilled in various technologies required for data collection, processing, analys
   - BI: Tableau
     
 ## Education
-- M.A., Psychology | Yonsei University (Feb, 2023)
-- B.A., English Language and Literature | Hanyang University (Feb, 2021)
+- M.A., Psychology at Yonsei University (Feb, 2023)
+- B.A., English Language and Literature at Hanyang University (Feb, 2021)
 
 ## Experience
 **Graduate Researcher @ Clinical Neuroscience of Anxiety and Depression Lab | Yonsei University (_Jan 2021 - Feb 2023_)**
@@ -25,6 +25,8 @@ Skilled in various technologies required for data collection, processing, analys
 
 **Winter break trainee @ Pediatric Psychiatric Hospital | Yonsei Severance Hospital (_Jan 2022 - Feb 2022_)**
 - Apprenticeship
+
+
 
 ## Projects
 ### Investigation of psychophysiological (EMG, ECG, HRV) responses to threat uncertainty under cognitive load
