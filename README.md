@@ -38,8 +38,8 @@ Skilled in various technologies required for data collection, processing, analys
 - EEG investigation of Korean sentences
 
 ### Publications
-- Seo, D., Balderston, N. L., Berenbaum, H., & Hur, J. (2023). The interactive effects of different facets of threat uncertainty and cognitive load in shaping fear and anxiety responses. Psychophysiology, e14404. [https://doi.org/10.1111/psyp.14404](https://onlinelibrary.wiley.com/doi/10.1111/psyp.14404)
-- Park, M., Seo, D., Kim, J. G., Lee, G., McReynolds, L. S., Amsel, L., Yang, H., Kim, Y. H., Han, S., Park, S. H., & Hur, J. (2023). Identification and comparison of pandemic-to-symptom networks of South Korea and the United States. Frontiers in psychiatry, 14, 1161200. [https://doi.org/10.3389/fpsyt.2023.1161200](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10328092/)
+- Seo, D., Balderston, N. L., Berenbaum, H., & Hur, J. (2023). The interactive effects of different facets of threat uncertainty and cognitive load in shaping fear and anxiety responses. _Psychophysiology_, e14404. [https://doi.org/10.1111/psyp.14404](https://onlinelibrary.wiley.com/doi/10.1111/psyp.14404)
+- Park, M., Seo, D., Kim, J. G., Lee, G., McReynolds, L. S., Amsel, L., Yang, H., Kim, Y. H., Han, S., Park, S. H., & Hur, J. (2023). Identification and comparison of pandemic-to-symptom networks of South Korea and the United States. _Frontiers in psychiatry_, 14, 1161200. [https://doi.org/10.3389/fpsyt.2023.1161200](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10328092/)
 
 
 
