@@ -21,7 +21,7 @@ Skilled in various technologies required for data collection, processing, analys
 
 **Clinical evaluation trainee** @ Yonsei Psychological Health Center | Yonsei University (_Feb 2022 - June 2022_)
 
-**Winter break trainee** @ Pediatric Psychiatric Hospital | Yonsei Severance Hospital (_Jan 2022 - Feb 2022_)
+**Psychological report trainee** @ Pediatric Psychiatric Hospital | Yonsei Severance Hospital (_Jan 2022 - Feb 2022_)
 
 **Undergraduate research assistant** @ NeuroCognition of Language Lab | Hanyang University (_Sept 2019 - Fet 2020_)
 
