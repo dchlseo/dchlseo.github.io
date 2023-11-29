@@ -27,6 +27,8 @@ Skilled in various technologies required for data collection, processing, analys
 
 ## Projects
 ### Data Science
+- FitBit fitness tracker activity data analysis
+- Hand-object interaction recognition (YOLOv8n, Mediapipe, LSTM)
 - Predicting flight delays with machine learning (LightGBM, XGBoost)
 
 ### Psychology
